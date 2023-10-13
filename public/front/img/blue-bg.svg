@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 547" width="1350" height="547">
+	<title>Folder 1</title>
+	<style>
+		.s0 { fill: #68e1ec } 
+		.s1 { opacity: .1 } 
+		.s2 { fill: none;stroke: #707070;stroke-width: 2.8 } 
+	</style>
+	<g id="Folder 1">
+		<path id="Rectangle 62" class="s0" d="m-13.1-17.4l1409.1 17.4-6.9 562.6-1409.1-17.4z"/>
+		<path id="Rectangle 63" class="s1" d="m-9.9 0h1372.6v548h-1372.6z"/>
+		<path id="Path 11" class="s2" d="m56.3 29.8c0 0 541.6 17.3 524.8 126-16.9 108.8-152.9-5.4-152.9-5.4 0 0-40.9-150.2 307 4.9 347.9 155 401.8 293.4 401.8 293.4"/>
+	</g>
+</svg>
